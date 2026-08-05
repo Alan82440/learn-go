@@ -16,4 +16,6 @@ func main() { //“{”只能放在()的后面，不能换行
 		"hello,world") //函数参数可以换行，换行后需要缩进
 	/*块注释，块注释不能再嵌套注释*/ //ctrl+/表示注释当前行，再次ctrl+/表示取消注释
 	//shift+tab表示缩进，shift+tab表示取消缩进
+	//值类型：int,float,bool,string,数组，结构体，通常存放于栈区
+	//引用类型：指针，slice,map,chan,interface，通常存放于堆区
 }
