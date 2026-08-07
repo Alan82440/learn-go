@@ -1,5 +1,6 @@
 package main
 
+//浮点型
 import "fmt"
 
 func main() {

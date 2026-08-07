@@ -1,5 +1,6 @@
 package main
 
+//指针
 import (
 	"fmt"
 )

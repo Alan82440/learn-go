@@ -1,5 +1,7 @@
 package main
 
+//标识符
+
 import (
 	"fmt"
 )

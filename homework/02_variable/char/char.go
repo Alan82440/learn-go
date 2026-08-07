@@ -1,5 +1,6 @@
 package main
 
+//字符型
 import "fmt"
 
 func main() {

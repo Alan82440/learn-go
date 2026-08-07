@@ -1,5 +1,6 @@
 package main
 
+//类型转换
 import "fmt"
 
 func main() {
