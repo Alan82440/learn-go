@@ -16,5 +16,10 @@
 2 git log(查看提交记录) 
 3 git reflog(查看历史记录，可查询版本号)
 4 git reset --hard 版本号(穿梭版本) 
-//go已学完第72节课
-//git学完第15节课
+四，分支操作
+1 git branch 分支名(创建分支)
+2 git branch -v(查看分支)
+3 git checkout 分支名(切换分支)
+4 git merge 分支名(把指定分支合并到当前分支)
+//go已学完第82节课
+//git学完第17节课
