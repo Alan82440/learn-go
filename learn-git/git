@@ -21,5 +21,11 @@
 2 git branch -v(查看分支)
 3 git checkout 分支名(切换分支)
 4 git merge 分支名(把指定分支合并到当前分支)
-//go已学完第82节课
-//git学完第17节课
+五，远程仓
+1 git remote -v(查看远程仓别名与地址)
+2 git remote add ori(远程仓别名) git@xxx/xxx.git(链接)
+3 git clone 别名 分支(推送本地分支到远程仓)
+4 git clone 远程地址(将远程仓内容复制到本地)
+5 git pull 别名 远程分支名(将远程仓新内容分支复制到本地后与本地分支合并)
+//go已学完第84节课
+//git学完第21节课
